@@ -1,0 +1,5 @@
+password
+.ipynb_checkpoints
+.vscode
+__pycache__
+data/*.csv

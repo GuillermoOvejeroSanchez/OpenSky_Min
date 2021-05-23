@@ -1,0 +1,302 @@
+name,estdepartureairport,window.end,count
+Alicante International Airport,LEAL,2021-04-29T01:00:00.000+0000,20
+Málaga Airport,LEMG,2021-04-29T01:00:00.000+0000,44
+Francisco de Sá Carneiro Airport,LPPR,2021-04-29T01:00:00.000+0000,31
+Vilar Da Luz Airport,LPVL,2021-04-29T01:00:00.000+0000,11
+Toulouse-Blagnac Airport,LFBO,2021-04-29T01:00:00.000+0000,56
+Barcelona International Airport,LEBL,2021-04-29T01:00:00.000+0000,95
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-04-29T01:00:00.000+0000,202
+Faro Airport,LPFR,2021-04-29T01:00:00.000+0000,11
+Cascais Airport,LPCS,2021-04-29T01:00:00.000+0000,31
+Sevilla Airport,LEZL,2021-04-29T01:00:00.000+0000,18
+Évora Airport,LPEV,2021-04-29T01:00:00.000+0000,16
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-04-29T01:00:00.000+0000,71
+Ibiza Airport,LEIB,2021-04-29T01:00:00.000+0000,23
+Palma De Mallorca Airport,LEPA,2021-04-29T01:00:00.000+0000,91
+Ibiza Airport,LEIB,2021-04-30T01:00:00.000+0000,39
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-04-30T01:00:00.000+0000,218
+Cuatro Vientos Airport,LECU,2021-04-30T01:00:00.000+0000,15
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-04-30T01:00:00.000+0000,95
+Faro Airport,LPFR,2021-04-30T01:00:00.000+0000,13
+Palma De Mallorca Airport,LEPA,2021-04-30T01:00:00.000+0000,98
+Sevilla Airport,LEZL,2021-04-30T01:00:00.000+0000,27
+Toulouse-Blagnac Airport,LFBO,2021-04-30T01:00:00.000+0000,50
+Francisco de Sá Carneiro Airport,LPPR,2021-04-30T01:00:00.000+0000,38
+Barcelona International Airport,LEBL,2021-04-30T01:00:00.000+0000,116
+Cascais Airport,LPCS,2021-04-30T01:00:00.000+0000,27
+Vilar Da Luz Airport,LPVL,2021-04-30T01:00:00.000+0000,18
+Málaga Airport,LEMG,2021-04-30T01:00:00.000+0000,67
+Évora Airport,LPEV,2021-04-30T01:00:00.000+0000,11
+Alicante International Airport,LEAL,2021-04-30T01:00:00.000+0000,31
+Cascais Airport,LPCS,2021-05-01T01:00:00.000+0000,16
+Alicante International Airport,LEAL,2021-05-01T01:00:00.000+0000,38
+Francisco de Sá Carneiro Airport,LPPR,2021-05-01T01:00:00.000+0000,47
+Palma De Mallorca Airport,LEPA,2021-05-01T01:00:00.000+0000,123
+Faro Airport,LPFR,2021-05-01T01:00:00.000+0000,27
+Ibiza Airport,LEIB,2021-05-01T01:00:00.000+0000,46
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-01T01:00:00.000+0000,191
+Málaga Airport,LEMG,2021-05-01T01:00:00.000+0000,83
+Barcelona International Airport,LEBL,2021-05-01T01:00:00.000+0000,125
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-01T01:00:00.000+0000,108
+Toulouse-Blagnac Airport,LFBO,2021-05-01T01:00:00.000+0000,22
+Sevilla Airport,LEZL,2021-05-01T01:00:00.000+0000,20
+Cuatro Vientos Airport,LECU,2021-05-01T01:00:00.000+0000,12
+Barcelona International Airport,LEBL,2021-05-02T01:00:00.000+0000,144
+Alicante International Airport,LEAL,2021-05-02T01:00:00.000+0000,45
+Palma De Mallorca Airport,LEPA,2021-05-02T01:00:00.000+0000,141
+Ibiza Airport,LEIB,2021-05-02T01:00:00.000+0000,46
+Cascais Airport,LPCS,2021-05-02T01:00:00.000+0000,18
+Faro Airport,LPFR,2021-05-02T01:00:00.000+0000,34
+Francisco de Sá Carneiro Airport,LPPR,2021-05-02T01:00:00.000+0000,48
+Toulouse-Blagnac Airport,LFBO,2021-05-02T01:00:00.000+0000,24
+Málaga Airport,LEMG,2021-05-02T01:00:00.000+0000,80
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-02T01:00:00.000+0000,110
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-02T01:00:00.000+0000,198
+Sevilla Airport,LEZL,2021-05-02T01:00:00.000+0000,29
+Évora Airport,LPEV,2021-05-03T01:00:00.000+0000,13
+Málaga Airport,LEMG,2021-05-03T01:00:00.000+0000,58
+Cascais Airport,LPCS,2021-05-03T01:00:00.000+0000,18
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-03T01:00:00.000+0000,203
+Ibiza Airport,LEIB,2021-05-03T01:00:00.000+0000,37
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-03T01:00:00.000+0000,83
+Barcelona International Airport,LEBL,2021-05-03T01:00:00.000+0000,147
+Toulouse-Blagnac Airport,LFBO,2021-05-03T01:00:00.000+0000,52
+Francisco de Sá Carneiro Airport,LPPR,2021-05-03T01:00:00.000+0000,45
+Faro Airport,LPFR,2021-05-03T01:00:00.000+0000,18
+Sevilla Airport,LEZL,2021-05-03T01:00:00.000+0000,33
+Palma De Mallorca Airport,LEPA,2021-05-03T01:00:00.000+0000,103
+Alicante International Airport,LEAL,2021-05-03T01:00:00.000+0000,30
+Barcelona International Airport,LEBL,2021-05-04T01:00:00.000+0000,113
+Cuatro Vientos Airport,LECU,2021-05-04T01:00:00.000+0000,19
+Francisco de Sá Carneiro Airport,LPPR,2021-05-04T01:00:00.000+0000,28
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-04T01:00:00.000+0000,56
+Zaragoza Air Base,LEZG,2021-05-04T01:00:00.000+0000,11
+Alicante International Airport,LEAL,2021-05-04T01:00:00.000+0000,16
+Málaga Airport,LEMG,2021-05-04T01:00:00.000+0000,49
+Faro Airport,LPFR,2021-05-04T01:00:00.000+0000,14
+Sevilla Airport,LEZL,2021-05-04T01:00:00.000+0000,24
+Cascais Airport,LPCS,2021-05-04T01:00:00.000+0000,16
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-04T01:00:00.000+0000,195
+Palma De Mallorca Airport,LEPA,2021-05-04T01:00:00.000+0000,92
+Vilar Da Luz Airport,LPVL,2021-05-04T01:00:00.000+0000,11
+Ibiza Airport,LEIB,2021-05-04T01:00:00.000+0000,29
+Toulouse-Blagnac Airport,LFBO,2021-05-04T01:00:00.000+0000,49
+Évora Airport,LPEV,2021-05-04T01:00:00.000+0000,16
+Alicante International Airport,LEAL,2021-05-05T01:00:00.000+0000,30
+Palma De Mallorca Airport,LEPA,2021-05-05T01:00:00.000+0000,81
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-05T01:00:00.000+0000,74
+Cascais Airport,LPCS,2021-05-05T01:00:00.000+0000,16
+Málaga Airport,LEMG,2021-05-05T01:00:00.000+0000,59
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-05T01:00:00.000+0000,200
+Francisco de Sá Carneiro Airport,LPPR,2021-05-05T01:00:00.000+0000,36
+Barcelona International Airport,LEBL,2021-05-05T01:00:00.000+0000,122
+Faro Airport,LPFR,2021-05-05T01:00:00.000+0000,12
+Évora Airport,LPEV,2021-05-05T01:00:00.000+0000,12
+Ibiza Airport,LEIB,2021-05-05T01:00:00.000+0000,31
+Vilar Da Luz Airport,LPVL,2021-05-05T01:00:00.000+0000,11
+Toulouse-Blagnac Airport,LFBO,2021-05-05T01:00:00.000+0000,45
+Cuatro Vientos Airport,LECU,2021-05-05T01:00:00.000+0000,24
+Sevilla Airport,LEZL,2021-05-05T01:00:00.000+0000,25
+Vilar Da Luz Airport,LPVL,2021-05-06T01:00:00.000+0000,14
+Sevilla Airport,LEZL,2021-05-06T01:00:00.000+0000,30
+Málaga Airport,LEMG,2021-05-06T01:00:00.000+0000,51
+Évora Airport,LPEV,2021-05-06T01:00:00.000+0000,16
+Palma De Mallorca Airport,LEPA,2021-05-06T01:00:00.000+0000,95
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-06T01:00:00.000+0000,208
+Toulouse-Blagnac Airport,LFBO,2021-05-06T01:00:00.000+0000,53
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-06T01:00:00.000+0000,78
+Barcelona International Airport,LEBL,2021-05-06T01:00:00.000+0000,127
+Cascais Airport,LPCS,2021-05-06T01:00:00.000+0000,24
+Francisco de Sá Carneiro Airport,LPPR,2021-05-06T01:00:00.000+0000,42
+Alicante International Airport,LEAL,2021-05-06T01:00:00.000+0000,16
+Ibiza Airport,LEIB,2021-05-06T01:00:00.000+0000,41
+Barcelona International Airport,LEBL,2021-05-07T01:00:00.000+0000,165
+Cascais Airport,LPCS,2021-05-07T01:00:00.000+0000,28
+Palma De Mallorca Airport,LEPA,2021-05-07T01:00:00.000+0000,129
+Évora Airport,LPEV,2021-05-07T01:00:00.000+0000,12
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-07T01:00:00.000+0000,236
+Alicante International Airport,LEAL,2021-05-07T01:00:00.000+0000,47
+Málaga Airport,LEMG,2021-05-07T01:00:00.000+0000,73
+Toulouse-Blagnac Airport,LFBO,2021-05-07T01:00:00.000+0000,67
+Vilar Da Luz Airport,LPVL,2021-05-07T01:00:00.000+0000,11
+Francisco de Sá Carneiro Airport,LPPR,2021-05-07T01:00:00.000+0000,54
+Ibiza Airport,LEIB,2021-05-07T01:00:00.000+0000,42
+Sevilla Airport,LEZL,2021-05-07T01:00:00.000+0000,39
+Faro Airport,LPFR,2021-05-07T01:00:00.000+0000,21
+Cuatro Vientos Airport,LECU,2021-05-07T01:00:00.000+0000,16
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-07T01:00:00.000+0000,110
+Cascais Airport,LPCS,2021-05-08T01:00:00.000+0000,25
+Francisco de Sá Carneiro Airport,LPPR,2021-05-08T01:00:00.000+0000,66
+Cuatro Vientos Airport,LECU,2021-05-08T01:00:00.000+0000,11
+Sevilla Airport,LEZL,2021-05-08T01:00:00.000+0000,16
+Málaga Airport,LEMG,2021-05-08T01:00:00.000+0000,80
+Vilar Da Luz Airport,LPVL,2021-05-08T01:00:00.000+0000,13
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-08T01:00:00.000+0000,192
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-08T01:00:00.000+0000,106
+Faro Airport,LPFR,2021-05-08T01:00:00.000+0000,31
+Palma De Mallorca Airport,LEPA,2021-05-08T01:00:00.000+0000,137
+Barcelona International Airport,LEBL,2021-05-08T01:00:00.000+0000,124
+Alicante International Airport,LEAL,2021-05-08T01:00:00.000+0000,42
+Ibiza Airport,LEIB,2021-05-08T01:00:00.000+0000,45
+Toulouse-Blagnac Airport,LFBO,2021-05-08T01:00:00.000+0000,27
+Málaga Airport,LEMG,2021-05-09T01:00:00.000+0000,74
+Toulouse-Blagnac Airport,LFBO,2021-05-09T01:00:00.000+0000,28
+Palma De Mallorca Airport,LEPA,2021-05-09T01:00:00.000+0000,158
+Francisco de Sá Carneiro Airport,LPPR,2021-05-09T01:00:00.000+0000,53
+Sevilla Airport,LEZL,2021-05-09T01:00:00.000+0000,29
+Girona Airport,LEGE,2021-05-09T01:00:00.000+0000,17
+Faro Airport,LPFR,2021-05-09T01:00:00.000+0000,20
+Barcelona International Airport,LEBL,2021-05-09T01:00:00.000+0000,165
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-09T01:00:00.000+0000,112
+Alicante International Airport,LEAL,2021-05-09T01:00:00.000+0000,42
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-09T01:00:00.000+0000,213
+Ibiza Airport,LEIB,2021-05-09T01:00:00.000+0000,61
+Alicante International Airport,LEAL,2021-05-10T01:00:00.000+0000,32
+Francisco de Sá Carneiro Airport,LPPR,2021-05-10T01:00:00.000+0000,43
+Sevilla Airport,LEZL,2021-05-10T01:00:00.000+0000,31
+Toulouse-Blagnac Airport,LFBO,2021-05-10T01:00:00.000+0000,51
+Faro Airport,LPFR,2021-05-10T01:00:00.000+0000,16
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-10T01:00:00.000+0000,224
+Cascais Airport,LPCS,2021-05-10T01:00:00.000+0000,16
+Ibiza Airport,LEIB,2021-05-10T01:00:00.000+0000,43
+Málaga Airport,LEMG,2021-05-10T01:00:00.000+0000,61
+Sabadell Airport,LELL,2021-05-10T01:00:00.000+0000,12
+Barcelona International Airport,LEBL,2021-05-10T01:00:00.000+0000,154
+Palma De Mallorca Airport,LEPA,2021-05-10T01:00:00.000+0000,112
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-10T01:00:00.000+0000,99
+Barcelona International Airport,LEBL,2021-05-11T01:00:00.000+0000,115
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-11T01:00:00.000+0000,193
+Palma De Mallorca Airport,LEPA,2021-05-11T01:00:00.000+0000,90
+Francisco de Sá Carneiro Airport,LPPR,2021-05-11T01:00:00.000+0000,30
+Toulouse-Blagnac Airport,LFBO,2021-05-11T01:00:00.000+0000,51
+Alicante International Airport,LEAL,2021-05-11T01:00:00.000+0000,15
+Málaga Airport,LEMG,2021-05-11T01:00:00.000+0000,58
+Évora Airport,LPEV,2021-05-11T01:00:00.000+0000,12
+Ibiza Airport,LEIB,2021-05-11T01:00:00.000+0000,31
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-11T01:00:00.000+0000,53
+Cascais Airport,LPCS,2021-05-11T01:00:00.000+0000,22
+Sevilla Airport,LEZL,2021-05-11T01:00:00.000+0000,24
+Cuatro Vientos Airport,LECU,2021-05-11T01:00:00.000+0000,14
+Faro Airport,LPFR,2021-05-12T01:00:00.000+0000,11
+Ibiza Airport,LEIB,2021-05-12T01:00:00.000+0000,56
+Sevilla Airport,LEZL,2021-05-12T01:00:00.000+0000,28
+Cascais Airport,LPCS,2021-05-12T01:00:00.000+0000,21
+Palma De Mallorca Airport,LEPA,2021-05-12T01:00:00.000+0000,131
+Barcelona International Airport,LEBL,2021-05-12T01:00:00.000+0000,148
+Toulouse-Blagnac Airport,LFBO,2021-05-12T01:00:00.000+0000,52
+Francisco de Sá Carneiro Airport,LPPR,2021-05-12T01:00:00.000+0000,34
+Cuatro Vientos Airport,LECU,2021-05-12T01:00:00.000+0000,11
+Málaga Airport,LEMG,2021-05-12T01:00:00.000+0000,65
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-12T01:00:00.000+0000,79
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-12T01:00:00.000+0000,206
+Alicante International Airport,LEAL,2021-05-12T01:00:00.000+0000,29
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-13T01:00:00.000+0000,210
+Sevilla Airport,LEZL,2021-05-13T01:00:00.000+0000,30
+Palma De Mallorca Airport,LEPA,2021-05-13T01:00:00.000+0000,144
+Cuatro Vientos Airport,LECU,2021-05-13T01:00:00.000+0000,15
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-13T01:00:00.000+0000,105
+Barcelona International Airport,LEBL,2021-05-13T01:00:00.000+0000,143
+Ibiza Airport,LEIB,2021-05-13T01:00:00.000+0000,51
+Faro Airport,LPFR,2021-05-13T01:00:00.000+0000,14
+Alicante International Airport,LEAL,2021-05-13T01:00:00.000+0000,25
+Francisco de Sá Carneiro Airport,LPPR,2021-05-13T01:00:00.000+0000,42
+Toulouse-Blagnac Airport,LFBO,2021-05-13T01:00:00.000+0000,37
+Málaga Airport,LEMG,2021-05-13T01:00:00.000+0000,66
+Faro Airport,LPFR,2021-05-14T01:00:00.000+0000,15
+Toulouse-Blagnac Airport,LFBO,2021-05-14T01:00:00.000+0000,35
+Cascais Airport,LPCS,2021-05-14T01:00:00.000+0000,16
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-14T01:00:00.000+0000,106
+Cuatro Vientos Airport,LECU,2021-05-14T01:00:00.000+0000,23
+Palma De Mallorca Airport,LEPA,2021-05-14T01:00:00.000+0000,146
+Ibiza Airport,LEIB,2021-05-14T01:00:00.000+0000,57
+Zaragoza Air Base,LEZG,2021-05-14T01:00:00.000+0000,13
+Barcelona International Airport,LEBL,2021-05-14T01:00:00.000+0000,169
+Alicante International Airport,LEAL,2021-05-14T01:00:00.000+0000,41
+Francisco de Sá Carneiro Airport,LPPR,2021-05-14T01:00:00.000+0000,42
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-14T01:00:00.000+0000,226
+Sevilla Airport,LEZL,2021-05-14T01:00:00.000+0000,40
+Málaga Airport,LEMG,2021-05-14T01:00:00.000+0000,78
+Sevilla Airport,LEZL,2021-05-15T01:00:00.000+0000,19
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-15T01:00:00.000+0000,200
+Cascais Airport,LPCS,2021-05-15T01:00:00.000+0000,30
+Francisco de Sá Carneiro Airport,LPPR,2021-05-15T01:00:00.000+0000,40
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-15T01:00:00.000+0000,108
+Alicante International Airport,LEAL,2021-05-15T01:00:00.000+0000,40
+Palma De Mallorca Airport,LEPA,2021-05-15T01:00:00.000+0000,154
+Málaga Airport,LEMG,2021-05-15T01:00:00.000+0000,87
+Barcelona International Airport,LEBL,2021-05-15T01:00:00.000+0000,115
+Ibiza Airport,LEIB,2021-05-15T01:00:00.000+0000,44
+Faro Airport,LPFR,2021-05-15T01:00:00.000+0000,28
+Toulouse-Blagnac Airport,LFBO,2021-05-15T01:00:00.000+0000,21
+Cuatro Vientos Airport,LECU,2021-05-15T01:00:00.000+0000,16
+Cascais Airport,LPCS,2021-05-16T01:00:00.000+0000,13
+Sevilla Airport,LEZL,2021-05-16T01:00:00.000+0000,38
+Palma De Mallorca Airport,LEPA,2021-05-16T01:00:00.000+0000,240
+Toulouse-Blagnac Airport,LFBO,2021-05-16T01:00:00.000+0000,37
+Alicante International Airport,LEAL,2021-05-16T01:00:00.000+0000,56
+Son Bonet Airport,LESB,2021-05-16T01:00:00.000+0000,13
+Faro Airport,LPFR,2021-05-16T01:00:00.000+0000,20
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-16T01:00:00.000+0000,114
+Francisco de Sá Carneiro Airport,LPPR,2021-05-16T01:00:00.000+0000,58
+Ibiza Airport,LEIB,2021-05-16T01:00:00.000+0000,112
+Málaga Airport,LEMG,2021-05-16T01:00:00.000+0000,107
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-16T01:00:00.000+0000,228
+Girona Airport,LEGE,2021-05-16T01:00:00.000+0000,11
+Barcelona International Airport,LEBL,2021-05-16T01:00:00.000+0000,184
+Alicante International Airport,LEAL,2021-05-17T01:00:00.000+0000,29
+Cascais Airport,LPCS,2021-05-17T01:00:00.000+0000,22
+Ibiza Airport,LEIB,2021-05-17T01:00:00.000+0000,49
+Sevilla Airport,LEZL,2021-05-17T01:00:00.000+0000,38
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-17T01:00:00.000+0000,102
+Palma De Mallorca Airport,LEPA,2021-05-17T01:00:00.000+0000,131
+Cuatro Vientos Airport,LECU,2021-05-17T01:00:00.000+0000,21
+Málaga Airport,LEMG,2021-05-17T01:00:00.000+0000,69
+Faro Airport,LPFR,2021-05-17T01:00:00.000+0000,42
+Toulouse-Blagnac Airport,LFBO,2021-05-17T01:00:00.000+0000,56
+Barcelona International Airport,LEBL,2021-05-17T01:00:00.000+0000,168
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-17T01:00:00.000+0000,208
+Francisco de Sá Carneiro Airport,LPPR,2021-05-17T01:00:00.000+0000,54
+Évora Airport,LPEV,2021-05-18T01:00:00.000+0000,12
+Faro Airport,LPFR,2021-05-18T01:00:00.000+0000,31
+Cascais Airport,LPCS,2021-05-18T01:00:00.000+0000,23
+Cuatro Vientos Airport,LECU,2021-05-18T01:00:00.000+0000,15
+Málaga Airport,LEMG,2021-05-18T01:00:00.000+0000,62
+Sevilla Airport,LEZL,2021-05-18T01:00:00.000+0000,22
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-18T01:00:00.000+0000,187
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-18T01:00:00.000+0000,66
+Palma De Mallorca Airport,LEPA,2021-05-18T01:00:00.000+0000,92
+Francisco de Sá Carneiro Airport,LPPR,2021-05-18T01:00:00.000+0000,41
+Toulouse-Blagnac Airport,LFBO,2021-05-18T01:00:00.000+0000,42
+Barcelona International Airport,LEBL,2021-05-18T01:00:00.000+0000,104
+Ibiza Airport,LEIB,2021-05-18T01:00:00.000+0000,27
+Alicante International Airport,LEAL,2021-05-18T01:00:00.000+0000,27
+Palma De Mallorca Airport,LEPA,2021-05-19T01:00:00.000+0000,98
+Ibiza Airport,LEIB,2021-05-19T01:00:00.000+0000,34
+Cascais Airport,LPCS,2021-05-19T01:00:00.000+0000,23
+Sevilla Airport,LEZL,2021-05-19T01:00:00.000+0000,23
+Málaga Airport,LEMG,2021-05-19T01:00:00.000+0000,56
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-19T01:00:00.000+0000,202
+Zaragoza Air Base,LEZG,2021-05-19T01:00:00.000+0000,11
+Francisco de Sá Carneiro Airport,LPPR,2021-05-19T01:00:00.000+0000,40
+Alicante International Airport,LEAL,2021-05-19T01:00:00.000+0000,37
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-19T01:00:00.000+0000,78
+Cuatro Vientos Airport,LECU,2021-05-19T01:00:00.000+0000,18
+Toulouse-Blagnac Airport,LFBO,2021-05-19T01:00:00.000+0000,53
+Faro Airport,LPFR,2021-05-19T01:00:00.000+0000,33
+Barcelona International Airport,LEBL,2021-05-19T01:00:00.000+0000,132
+Évora Airport,LPEV,2021-05-19T01:00:00.000+0000,18
+Adolfo Suárez Madrid–Barajas Airport,LEMD,2021-05-20T01:00:00.000+0000,206
+Perpignan-Rivesaltes (Llabanère) Airport,LFMP,2021-05-20T01:00:00.000+0000,11
+Alicante International Airport,LEAL,2021-05-20T01:00:00.000+0000,29
+Cascais Airport,LPCS,2021-05-20T01:00:00.000+0000,20
+Barcelona International Airport,LEBL,2021-05-20T01:00:00.000+0000,136
+Sevilla Airport,LEZL,2021-05-20T01:00:00.000+0000,30
+Palma De Mallorca Airport,LEPA,2021-05-20T01:00:00.000+0000,131
+Faro Airport,LPFR,2021-05-20T01:00:00.000+0000,39
+Málaga Airport,LEMG,2021-05-20T01:00:00.000+0000,57
+Francisco de Sá Carneiro Airport,LPPR,2021-05-20T01:00:00.000+0000,48
+Toulouse-Blagnac Airport,LFBO,2021-05-20T01:00:00.000+0000,65
+Humberto Delgado Airport (Lisbon Portela Airport),LPPT,2021-05-20T01:00:00.000+0000,90
+Cuatro Vientos Airport,LECU,2021-05-20T01:00:00.000+0000,18
+Ibiza Airport,LEIB,2021-05-20T01:00:00.000+0000,50
+Évora Airport,LPEV,2021-05-20T01:00:00.000+0000,12

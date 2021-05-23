@@ -1,0 +1,31 @@
+num_flights,name,departure,arrival
+234,Palma De Mallorca Airport,LEMD,LEPA
+232,Barcelona International Airport,LEMD,LEBL
+97,Humberto Delgado Airport (Lisbon Portela Airport),LEMD,LPPT
+94,Ibiza Airport,LEMD,LEIB
+75,Málaga Airport,LEMD,LEMG
+67,Adolfo Suárez Madrid–Barajas Airport,LEMD,LEMD
+62,Alicante International Airport,LEMD,LEAL
+57,Sevilla Airport,LEMD,LEZL
+55,Francisco de Sá Carneiro Airport,LEMD,LPPR
+43,Jerez Airport,LEMD,LEJR
+36,Toulouse-Blagnac Airport,LEMD,LFBO
+23,Pamplona Airport,LEMD,LEPP
+22,Alverca Air Base,LEMD,LPAR
+16,Vigo Airport,LEMD,LEVX
+5,Almería International Airport,LEMD,LEAM
+5,Cascais Airport,LEMD,LPCS
+4,Zaragoza Air Base,LEMD,LEZG
+3,Girona Airport,LEMD,LEGE
+3,Huesca/Pirineos Airport,LEMD,LEHC
+2,Aeródromo Requena El Rebollar,LEMD,LERE
+2,Cuatro Vientos Airport,LEMD,LECU
+2,Faro Airport,LEMD,LPFR
+2,Rota Naval Station Airport,LEMD,LERT
+1,Alhama De Murcia Airport,LEMD,LELH
+1,Badajoz Airport,LEMD,LEBZ
+1,Beja Airport / Airbase,LEMD,LPBJ
+1,Getafe Air Base,LEMD,LEGT
+1,Los Martínez Del Puerto Airport,LEMD,LEMP
+1,Perpignan-Rivesaltes (Llabanère) Airport,LEMD,LFMP
+1,Tomás Fernández Espada Airport,LEMD,LETF
