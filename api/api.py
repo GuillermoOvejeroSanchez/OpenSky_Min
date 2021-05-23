@@ -34,7 +34,6 @@ class OpenSkyApi:
         return json.loads(response.text)
 
     def get_states_icao24(self, icao24):
-        # 4952c4 icao24 example
         url = OpenSkyApi.API + "states/all?icao24={}".format(icao24)
         print(url)
         response = requests.request("GET", url, headers=self._headers, data={})
@@ -43,7 +42,6 @@ class OpenSkyApi:
         return States(json.loads(response.text))
 
     def get_states_timestamp(self, timestamp):
-        # 4952c4 icao24 example
         url = OpenSkyApi.API + "states/all?time={}".format(timestamp)
         response = requests.request("GET", url, headers=self._headers, data={})
         if not response.ok:
@@ -51,7 +49,6 @@ class OpenSkyApi:
         return States(json.loads(response.text))
 
     def get_states_box(self, lomin=0, lamin=0, lomax=0, lamax=0):
-        # 4952c4 icao24 example
         url = (
             OpenSkyApi.API
             + "states/all?lomin={lomin}&lamin={lamin}&lomax={lomax}&lamax={lamax}".format(

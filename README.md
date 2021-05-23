@@ -32,7 +32,7 @@ cat log.txt | grep "^|.*" | sed -e 's/\s*|\s*/,/g' -e 's/^,\|,$//g' -e 's/NULL//
 Vuelo aletorio del dia 16 de Mayo de 2021
 
 ```sql
-select * from state_vectors_data4 where hour=unix_timestamp('2021-05-16 12:00:00') order by rand() limit 1;
+SELECT * FROM state_vectors_data4 WHERE hour=unix_timestamp('2021-05-16 12:00:00') ORDER BY rand() LIMIT 1;
 ```
 
 - Spain coordinates: (-9.39288367353, 35.946850084, 3.03948408368, 43.7483377142) Obtained from [Github Gist](https://gist.github.com/graydon/11198540)
@@ -44,7 +44,12 @@ SELECT COUNT(DISTINCT icao24) FROM state_vectors_data4 WHERE lat<=43.74 AND lat>
 ```
 
 ```sql
-SELECT COUNT(DISTINCT icao24) FROM state_vectors_data4 WHERE lat<=43.74 AND lat>=35.94 AND lon<=3.03 AND lon>=-9.39 AND hour>=unix_timestamp('2021-05-14 01:00:00') and hour<=unix_timestamp('2021-05-16 23:00:00');
+SELECT COUNT(DISTINCT icao24)
+FROM state_vectors_data4
+WHERE lat<=43.74 AND lat>=35.94
+AND lon<=3.03 AND lon>=-9.39
+AND hour>=unix_timestamp('2021-05-14 01:00:00')
+AND hour<=unix_timestamp('2021-05-16 23:00:00');
 ```
 
 ```sql
